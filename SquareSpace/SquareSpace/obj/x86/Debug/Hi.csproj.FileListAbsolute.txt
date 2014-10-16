@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Square_Space\SquareSpace\SquareSpace\bin\Debug\SquareSpace.exe
+C:\Users\eahscs\Documents\GitHub\Square_Space\SquareSpace\SquareSpace\bin\Debug\SquareSpace.pdb
+C:\Users\eahscs\Documents\GitHub\Square_Space\SquareSpace\SquareSpace\obj\x86\Debug\SquareSpace.exe
+C:\Users\eahscs\Documents\GitHub\Square_Space\SquareSpace\SquareSpace\obj\x86\Debug\SquareSpace.pdb
